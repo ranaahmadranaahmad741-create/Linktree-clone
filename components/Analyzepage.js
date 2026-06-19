@@ -2,7 +2,7 @@ import React from "react";
 
 const Analyzepage = () => {
   return (
-    <section className="bg-[#EAEFE1] h-[95vh] md:h-auto md:py-20">
+    <section className="bg-[#EAEFE1] h-[85vh] md:h-auto md:py-20">
       <div className="item-center justify-center flex flex-col lg:flex-row mt-12 md:mt-22 gap-8 px-4 md:px-8">
         <div className="item-center justify-center w-full lg:w-[53%] flex justify-center">
           <img className="w-[500px] h-[500px] object-cover rounded-[10%] snap-center max-w-full" src="/11fef0f1-0866-4156-bf72-3504ecc68e22.png" alt="Linktree Demo" />
