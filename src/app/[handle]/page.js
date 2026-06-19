@@ -62,8 +62,10 @@ export default async function Page({ params }) {
         </div>
       </div>
       
-      <a href="/" className="mt-16 w-38 bg-white/20 hover:bg-white/30 text-white font-semibold px-6 py-3 rounded-full backdrop-blur-md border border-white/30 transition">
+      <a href="/" className="mt-16 w-38 bg-white/20 hover:bg-white/30 text-white  font-semibold px-6 py-3 rounded-full backdrop-blur-md border border-white/30 transition">
+        <div className="item-center justify-center ml-3">
         ← Home
+        </div>
       </a>
 
     </div>
